@@ -1,0 +1,75 @@
+/* Start Portfolio */
+.portfolio {
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
+  background-color: var(--section-background);
+}
+
+.portfolio .portfolio-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 30px;
+  margin-top: 80px;
+}
+
+.portfolio .portfolio-content .card {
+  background-color: white;
+}
+
+.portfolio .portfolio-content .card img {
+  max-width: 100%;
+}
+
+.portfolio .portfolio-content .card .info {
+  padding: 20px;
+}
+
+.portfolio .portfolio-content .card .info h3 {
+  margin: 0;
+}
+
+.portfolio .portfolio-content .card .info p {
+  color: #777;
+  line-height: 1.6;
+  margin-bottom: 0;
+}
+
+/* End Portfolio */
+/* start addform */
+.add-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5%;
+}
+.add-container .input {
+  display: inline-block;
+}
+
+.add-container input {
+  padding: 10px;
+  background: none;
+  outline: none;
+  resize: none;
+  border: 0;
+  font-family: 'Montserrat', sans-serif;
+  transition: all .3s;
+  border: 2px solid #bebed2
+}
+.add-container input:focus {
+  border: 2px solid #78788c
+}
+.add-container button {
+  padding: 5px 12px;
+  font-family: 'Montserrat', sans-serif;
+  border: 2px solid #78788c;
+  background: var(--main-color);
+  color: #5a5a6e;
+  cursor: pointer;
+  transition: all .3s
+}
+
+.add-container button:hover {
+  background: 0;
+  color: #5a5a6e
+}
+/* end addform */
