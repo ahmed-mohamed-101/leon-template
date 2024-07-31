@@ -1,5 +1,5 @@
 # leon-website
--i got the template design from elzero.org (https://elzerowebschool.github.io/HTML_And_CSS_Template_One/).<br>
+-i got the template design from elzero.org.<br>
 <hr>
 ### features:<br>
 -responsive website.<br>
@@ -12,7 +12,7 @@
 -html | css | php | sql | xampp.<br>
 <hr>
 ### a 2 minutes video reviewing the whole project:<br>
-https://drive.google.com/file/d/1-bypMFLnxv0JWiPoZ8t3ORFQha1Kfig5/view?usp=sharing
+https://drive.google.com/file/d/1iKmE_MojrSZHMu9sGxhSKAcAbDKPKt7f/view?usp=sharing
 <hr>
 ### steps on how you can run the website on ur localhost machien (windows only):<br>
 -download xampp from here " https://www.apachefriends.org/download.html "<br>
